@@ -121,7 +121,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             
             let trackingData: [String:String] = [
                 "pev2":"tracking",
-                "broadlog":"_mId", 
+                "broadlog":"_mId",
                 "delivery":"_dId",
                 "action": "1"
             ]
