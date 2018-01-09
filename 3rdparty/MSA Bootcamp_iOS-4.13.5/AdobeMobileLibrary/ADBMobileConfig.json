@@ -1,0 +1,60 @@
+{
+    "lastModified": "2017-12-14T09:21:11.683Z",
+    "marketingCloud": {
+        "org": "69C62CB358B96C1C0A495C70@AdobeOrg"
+    },
+    "target": {
+        "clientCode": "adobeinternalags326",
+        "timeout": 5
+    },
+    "audienceManager": {
+        "server": "ags326.demdex.net",
+        "analyticsForwardingEnabled": true,
+        "timeout": 5
+    },
+    "acquisition": {
+        "server": "c00.adobe.com",
+        "appid": "5ab969a2c9dc5e386e33269286cf8fe4c5740971e2ff113f013e827890a2dc2a"
+    },
+    "analytics": {
+        "rsids": "ags326bootcampapp",
+        "server": "adobeags326.sc.omtrdc.net",
+        "ssl": true,
+        "offlineEnabled": true,
+        "charset": "UTF-8",
+        "lifecycleTimeout": 300,
+        "privacyDefault": "optedin",
+        "batchLimit": 0,
+        "timezone": "CET",
+        "timezoneOffset": 60,
+        "referrerTimeout": 0,
+        "backdateSessionInfo": false,
+        "poi": [
+                [
+                 "Maidenhead",
+                 51.524033,
+                 -0.719626,
+                 50
+                 ],
+                [
+                 "Lehi",
+                 40.43485877,
+                 -111.8919057,
+                 80
+                 ],
+                [
+                 "San Jose",
+                 37.279518,
+                 -121.867905,
+                 100
+                 ]
+                ]
+    },
+    "messages": [
+    
+                 ],
+    "remotes": {
+        "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-594fe1b064746d329901957d.json",
+        "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-594fe1b064746d51d301abfc.json"
+    }
+}

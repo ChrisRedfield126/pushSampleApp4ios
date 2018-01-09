@@ -1,0 +1,73 @@
+[
+    {
+        "flightid": "1",
+	"shortdescription":"AMS --> JFK",
+	"category": "Frequent Flyer 10% discount",
+        "flightfrom": "Amsterdam Schiphol",
+        "flightto": "New York JFK",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/newyork.jpg",
+        "pageurl": "http://wesbites.com/retail/e-commerce.html",
+	"price":"80099"
+    },
+ {
+        "flightid": "2",
+	"shortdescription":"JFK --> AMS",
+	"category": "Frequent Flyer discount",
+        "flightfrom": "New York JFK",
+        "flightto": "Amsterdam Schiphol",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/amsterdam.jpg",
+	"price":"99999"
+
+    },
+ {
+        "flightid": "3",
+	"shortdescription":"JFK --> CDG",
+	"category": "Book Now",
+        "flightfrom": "New York JFK",
+        "flightto": "Paris Charles de Gaulle",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/paris.jpg",
+        "pageurl": "http://wesbites.com/retail/e-commerce.html",
+	"price":"53460"
+
+    },
+ {
+        "flightid": "4",
+	"shortdescription":"CDG --> JFK",
+	"category": "Book Now",
+        "flightfrom": "AParis Charles de Gaulle",
+        "flightto": "New York JFK",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/newyork.jpg",
+        "pageurl": "http://wesbites.com/retail/e-commerce.html",
+	"price":"12334"
+
+    },
+ {
+        "flightid": "5",
+	"shortdescription":"AMS --> BLR",
+	"category": "Book Now",
+        "flightfrom": "Amsterdam Schiphol",
+        "flightto": "Bengaluru International",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/bangalore.jpg",
+        "pageurl": "http://wesbites.com/retail/e-commerce.html",
+	"price":"123634"
+
+    },
+ {
+        "flightid": "6",
+	"category": "Book Now",
+	"shortdescription":"BLR --> AMS",
+        "flightfrom": "Bengaluru International",
+        "flightto": "Amsterdam Schiphol",
+        "date": "20130521",
+        "thumbnailUrl": "msg/resources/flight_images/amsterdam.jpg",
+        "pageurl": "http://wesbites.com/retail/e-commerce.html",
+	"price":"123134"
+
+    }
+
+  ]
